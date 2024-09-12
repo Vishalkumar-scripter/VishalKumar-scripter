@@ -1,4 +1,4 @@
-# 👋 Hello! I’m [Vishal Kumar Singh]
+# 👋 Hello! I’m Vishal Kumar Singh
 I’m a final-year BTech student pursuing a degree in Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning. Passionate about leveraging cutting-edge technologies to solve real-world problems, I’m enthusiastic about developing innovative solutions and contributing to impactful projects.
 
 ## 🔍 My Areas of Interest:
