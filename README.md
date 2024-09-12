@@ -13,9 +13,9 @@ I’m a final-year BTech student pursuing a degree in Computer Science Engineeri
 - Building and contributing to open-source projects to enhance my skills and collaborate with the tech community.
 
 ## 📚 Skills:
-- Programming Languages: Python, Java
-- Tools & Frameworks: TensorFlow, Scikit-Learn, Keras
-- Data Handling: Pandas, NumPy, SQL,Matplotlib,Seabon
+- **Programming Languages**: 🐍 Python, ☕ Java
+- **Tools & Frameworks**: 🤖 TensorFlow, 🧠 PyTorch, 📊 Scikit-Learn, 🔬 Keras
+- **Data Handling**: 🐼 Pandas, 🔢 NumPy, 🗃️ SQL
 
 
 
